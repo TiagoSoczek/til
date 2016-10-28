@@ -22,28 +22,11 @@ Basta executar o script powershell `.\update-readme.ps1`
 
 ## Categorias
 
-_6 TILs e contando..._
+_{DocsCount} TILs e contando..._
 
 ---
 
-### Categories
-
-* [Powershell](#powershell)
-* [Visual Studio](#visual-studio)
-
-### Powershell
-
-- [Convertto Json Depth](powershell/convertto-json-depth.md)
-- [Fast And Easy Object Convert](powershell/fast-and-easy-object-convert.md)
-- [Intellisense_Powershell](powershell/intellisense_powershell.md)
-- [Requires](powershell/requires.md)
-- [Wrong Function Return](powershell/wrong-function-return.md)
-
-### Visual Studio
-
-- [Team Explorer Legacy Msa](visual-studio/team-explorer-legacy-msa.md)
-
-
+{DocsToc}
 
 ## About
 
